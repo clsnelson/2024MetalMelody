@@ -16,7 +16,7 @@ class MotorIDs:
     INTAKEMOTOR = 10
     
     LIFTMOTOR_RIGHT = 11
-    LIFTMOTOR_LEFT = 12
+    LIFTMOTOR_LEFT = 34
     
 class CANIDs:
     LEFT_FRONT = 5
